@@ -1,1 +1,1 @@
-print("Welcome to GitHub Actions")
+print("Hello World")
